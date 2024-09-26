@@ -26,4 +26,22 @@ class MyText {
         fontFamily: 'PlaypenSans',
         color: Colors.yellow),
   );
+
+  static const reUplodeText = Text(
+    're uplode!',
+    style: TextStyle(
+        fontSize: 22,
+        fontWeight: FontWeight.bold,
+        fontFamily: 'PlaypenSans',
+        color: Colors.yellow),
+  );
+
+  static const saveText = Text(
+    'save',
+    style: TextStyle(
+        fontSize: 22,
+        fontWeight: FontWeight.bold,
+        fontFamily: 'PlaypenSans',
+        color: Colors.yellow),
+  );
 }
